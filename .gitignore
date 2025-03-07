@@ -1,0 +1,15 @@
+
+<carpeta_del_entorno_virtual>/
+
+
+__pycache__/
+
+
+db.sqlite3
+
+
+media/
+
+
+.vscode/
+.idea/
